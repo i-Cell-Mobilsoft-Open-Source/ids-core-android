@@ -1095,7 +1095,7 @@
                   "type": "color"
                 },
                 "500": {
-                  "value": "{smc.colors.opacity.cool.600}",
+                  "value": "{smc.colors.opacity.cool.500}",
                   "type": "color"
                 },
                 "600": {
@@ -2869,7 +2869,7 @@
               "type": "number"
             },
             "none": {
-              "value": 0,
+              "value": "{base.dimension.0}",
               "type": "number"
             }
           },
@@ -2971,14 +2971,14 @@
               "type": "number"
             },
             "none": {
-              "value": 0,
+              "value": "{base.dimension.0}",
               "type": "number"
             }
           }
         },
         "border-radius": {
           "none": {
-            "value": 0,
+            "value": "{base.dimension.0}",
             "type": "number"
           },
           "4xs": {
@@ -3458,16 +3458,6 @@
             "type": "text"
           }
         },
-        "iconset": {
-          "default": {
-            "value": "{base.typography.font-family.IdsFonticon}",
-            "type": "text"
-          },
-          "custom": {
-            "value": "{base.typography.font-family.MaterialIcons}",
-            "type": "text"
-          }
-        },
         "font-size": {
           "8": {
             "value": "{base.dimension.80}",
@@ -3511,6 +3501,14 @@
           },
           "32": {
             "value": "{base.dimension.320}",
+            "type": "number"
+          },
+          "36": {
+            "value": "{base.dimension.360}",
+            "type": "number"
+          },
+          "40": {
+            "value": "{base.dimension.400}",
             "type": "number"
           },
           "48": {
@@ -3561,6 +3559,14 @@
           },
           "36": {
             "value": "{base.dimension.360}",
+            "type": "number"
+          },
+          "40": {
+            "value": "{base.dimension.400}",
+            "type": "number"
+          },
+          "44": {
+            "value": "{base.dimension.440}",
             "type": "number"
           },
           "48": {
@@ -3642,6 +3648,16 @@
           "loosest": {
             "value": "{base.em.050}",
             "type": "number"
+          }
+        },
+        "iconset": {
+          "default": {
+            "value": "{base.typography.font-family.IdsFonticon}",
+            "type": "text"
+          },
+          "custom": {
+            "value": "{base.typography.font-family.MaterialIcons}",
+            "type": "text"
           }
         }
       },
