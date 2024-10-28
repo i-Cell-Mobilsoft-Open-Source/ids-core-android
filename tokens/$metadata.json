@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "smc-reference/smc-reference",
     "base/base",
+    "smc-reference/smc-reference",
     "comp-color/component",
     "smc-colors/light",
     "smc-colors/dark",
