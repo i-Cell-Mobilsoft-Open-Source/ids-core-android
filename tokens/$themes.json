@@ -2007,9 +2007,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "smc-reference/smc-reference": "source",
-      "comp-color/component": "enabled",
       "base/base": "source",
-      "smc-colors/light": "source"
+      "smc-colors/light": "source",
+      "comp-color/component": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2002:26680",
     "$figmaModeId": "2002:57",
