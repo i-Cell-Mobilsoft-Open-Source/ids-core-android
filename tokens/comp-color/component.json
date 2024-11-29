@@ -1,0 +1,262 @@
+{
+  "comp": {
+    "color": {
+      "badge": {
+        "filled": {
+          "color": {
+            "bg": {
+              "primary": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.primary.default}",
+                  "type": "color"
+                }
+              },
+              "secondary": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.secondary.default}",
+                  "type": "color"
+                }
+              },
+              "brand": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.brand.default}",
+                  "type": "color"
+                }
+              },
+              "error": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.error.default}",
+                  "type": "color"
+                }
+              },
+              "success": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.success.default}",
+                  "type": "color"
+                }
+              },
+              "warning": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.warning.default}",
+                  "type": "color"
+                }
+              },
+              "light": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
+                  "type": "color"
+                },
+                "fixed": {
+                  "default": {
+                    "value": "{smc.reference.container.color.bg.surface.fixed.lighter-10}",
+                    "type": "color"
+                  }
+                }
+              },
+              "dark": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.dark.fixed.default}",
+                  "type": "color"
+                }
+              },
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.darker-10}",
+                  "type": "color"
+                }
+              }
+            },
+            "fg": {
+              "icon": {
+                "primary": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.primary.lighter-100}",
+                    "type": "color"
+                  }
+                },
+                "secondary": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "brand": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "error": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "success": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "warning": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "light": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.darker-70}",
+                    "type": "color"
+                  },
+                  "fixed": {
+                    "default": {
+                      "value": "{smc.reference.container.color.fg.surface.fixed.darker-70}",
+                      "type": "color"
+                    }
+                  }
+                },
+                "dark": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "surface": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.darker-50}",
+                    "type": "color"
+                  }
+                }
+              },
+              "label": {
+                "primary": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "secondary": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "brand": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "error": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "success": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "warning": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "light": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.darker-70}",
+                    "type": "color"
+                  },
+                  "fixed": {
+                    "default": {
+                      "value": "{smc.reference.container.color.fg.surface.fixed.darker-70}",
+                      "type": "color"
+                    }
+                  }
+                },
+                "dark": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                    "type": "color"
+                  }
+                },
+                "surface": {
+                  "default": {
+                    "value": "{smc.reference.container.color.fg.surface.darker-50}",
+                    "type": "color"
+                  }
+                }
+              }
+            },
+            "border": {
+              "primary": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "secondary": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "brand": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "error": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "success": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "warning": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "light": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                },
+                "fixed": {
+                  "default": {
+                    "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                    "type": "color"
+                  }
+                }
+              },
+              "dark": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              },
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
