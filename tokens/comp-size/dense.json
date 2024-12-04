@@ -1,0 +1,20 @@
+{
+  "comp": {
+    "size": {
+      "slider": {
+        "handle": {
+          "size": {
+            "width": {
+              "value": "{smc.reference.container.size.width.20}",
+              "type": "number"
+            },
+            "height": {
+              "value": "{smc.reference.container.size.height.20}",
+              "type": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}
