@@ -1,0 +1,102 @@
+{
+  "month": {
+    "1": {
+      "value": "január",
+      "type": "text"
+    },
+    "2": {
+      "value": "feburár",
+      "type": "text"
+    },
+    "3": {
+      "value": "március",
+      "type": "text"
+    },
+    "4": {
+      "value": "április",
+      "type": "text"
+    },
+    "5": {
+      "value": "május",
+      "type": "text"
+    },
+    "6": {
+      "value": "június",
+      "type": "text"
+    },
+    "7": {
+      "value": "július",
+      "type": "text"
+    },
+    "8": {
+      "value": "augusztus",
+      "type": "text"
+    },
+    "9": {
+      "value": "szeptember",
+      "type": "text"
+    },
+    "10": {
+      "value": "október",
+      "type": "text"
+    },
+    "11": {
+      "value": "november",
+      "type": "text"
+    },
+    "12": {
+      "value": "december",
+      "type": "text"
+    }
+  },
+  "year": {
+    "1": {
+      "value": "2020",
+      "type": "text"
+    },
+    "2": {
+      "value": "2021",
+      "type": "text"
+    },
+    "3": {
+      "value": "2022",
+      "type": "text"
+    },
+    "4": {
+      "value": "2023",
+      "type": "text"
+    },
+    "5": {
+      "value": "2024",
+      "type": "text"
+    },
+    "6": {
+      "value": "2025",
+      "type": "text"
+    },
+    "7": {
+      "value": "2026",
+      "type": "text"
+    },
+    "8": {
+      "value": "2027",
+      "type": "text"
+    },
+    "9": {
+      "value": "2028",
+      "type": "text"
+    },
+    "10": {
+      "value": "2029",
+      "type": "text"
+    },
+    "11": {
+      "value": "2030",
+      "type": "text"
+    },
+    "12": {
+      "value": "2031",
+      "type": "text"
+    }
+  }
+}
