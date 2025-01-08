@@ -1,0 +1,46 @@
+{
+  "comp": {
+    "color": {
+      "dot-indicator": {
+        "dot": {
+          "filled": {
+            "color": {
+              "bg": {
+                "surface": {
+                  "default": {
+                    "value": "{smc.reference.container.color.bg.surface.darker-30}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{smc.reference.container.color.bg.primary.fixed.default}",
+                    "type": "color"
+                  }
+                },
+                "primary": {
+                  "default": {
+                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "type": "color"
+                  }
+                },
+                "light": {
+                  "default": {
+                    "value": "{smc.reference.container.color.bg.surface.fixed.lighter-10}",
+                    "type": "color"
+                  },
+                  "active": {
+                    "value": "{smc.reference.container.color.bg.primary.lighter-10}",
+                    "type": "color"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
