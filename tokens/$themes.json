@@ -1111,16 +1111,5 @@
       "smc-layout/xlarge": "enabled"
     },
     "group": "smc-layout"
-  },
-  {
-    "id": "0e87018226de1a5b03135f394d986e8a8308765b",
-    "name": "component",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "base/base": "source",
-      "smc-reference/smc-reference": "source",
-      "smc-colors/light": "source"
-    },
-    "group": "comp-color"
   }
 ]
