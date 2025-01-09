@@ -7,11 +7,6 @@
     "smc-layout/small",
     "smc-layout/medium",
     "smc-layout/large",
-    "smc-layout/xlarge",
-    "comp-size/comfortable",
-    "comp-size/compact",
-    "comp-size/dense",
-    "comp-size/spacious",
-    "comp-color/component"
+    "smc-layout/xlarge"
   ]
 }
