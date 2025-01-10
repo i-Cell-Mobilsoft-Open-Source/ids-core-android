@@ -94,6 +94,40 @@
                 "type": "number"
               }
             }
+          },
+          "header": {
+            "typography": {
+              "font-family": {
+                "value": "{smc.reference.typography.font-family.default}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.24}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.24}",
+                "type": "number"
+              },
+              "letter-spacing": {
+                "value": "{smc.reference.typography.letter-spacing.default}",
+                "type": "number"
+              }
+            },
+            "size": {
+              "padding-x": {
+                "value": "{smc.reference.container.padding.none}",
+                "type": "number"
+              },
+              "padding-y": {
+                "value": "{smc.reference.container.padding.8}",
+                "type": "number"
+              }
+            }
           }
         },
         "size": {

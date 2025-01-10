@@ -321,6 +321,18 @@
               }
             }
           }
+        },
+        "header": {
+          "color": {
+            "fg": {
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.fg.surface.darker-50}",
+                  "type": "color"
+                }
+              }
+            }
+          }
         }
       }
     }
