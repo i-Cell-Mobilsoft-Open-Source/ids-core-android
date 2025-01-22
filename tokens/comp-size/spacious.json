@@ -127,6 +127,90 @@
                 "value": "{smc.reference.container.padding.8}",
                 "type": "number"
               }
+            },
+            "headline": {
+              "typography": {
+                "font-family": {
+                  "value": "{smc.reference.typography.font-family.default}",
+                  "type": "text"
+                },
+                "font-size": {
+                  "value": "{smc.reference.typography.font-size.24}",
+                  "type": "number"
+                },
+                "font-weight": {
+                  "value": "{smc.reference.typography.font-weight.Regular}",
+                  "type": "number"
+                },
+                "line-height": {
+                  "value": "{smc.reference.typography.line-height.24}",
+                  "type": "number"
+                },
+                "letter-spacing": {
+                  "value": "{smc.reference.typography.letter-spacing.default}",
+                  "type": "number"
+                }
+              },
+              "size": {
+                "padding-top": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-start": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-end": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-bottom": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                }
+              }
+            },
+            "title": {
+              "typography": {
+                "font-family": {
+                  "value": "{smc.reference.typography.font-family.default}",
+                  "type": "text"
+                },
+                "font-size": {
+                  "value": "{smc.reference.typography.font-size.16}",
+                  "type": "number"
+                },
+                "font-weight": {
+                  "value": "{smc.reference.typography.font-weight.SemiBold}",
+                  "type": "number"
+                },
+                "line-height": {
+                  "value": "{smc.reference.typography.line-height.20}",
+                  "type": "number"
+                },
+                "letter-spacing": {
+                  "value": "{smc.reference.typography.letter-spacing.default}",
+                  "type": "number"
+                }
+              },
+              "size": {
+                "padding-top": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-start": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-end": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                },
+                "padding-bottom": {
+                  "value": "{smc.reference.container.padding.none}",
+                  "type": "number"
+                }
+              }
             }
           }
         },
